@@ -1,0 +1,648 @@
+# Slot mapping for the Swamp Karaoke VRChat world
+# Format: slot | URL | title
+# URL Redirect system made with <3 by VirtualPixel
+
+@header Swamp Karaoke Song Library
+
+001 | https://youtu.be/GoQU_4EGzK0 | bbno$ / Ironmouse - 1-800
+002 | https://youtu.be/xH8lg0AzQoE | Five for Fighting - 100 Years
+003 | https://youtu.be/a8daRHpT0Hg | The Smashing Pumpkins - 1979
+004 | https://youtu.be/oFIApdolE6M | Bowling for Soup - 1985
+005 | https://youtu.be/0z77ikDZyTE | H.E.R. - 2
+006 | https://youtu.be/2JRHo6V_Szw | Matchbox 20 - 3 AM
+007 | https://youtu.be/r7DIBP3KWkA | JG Wentworth - 877-CASH-NOW
+008 | https://youtu.be/OqQz92Od-HU | Dolly Parton - 9 to 5
+009 | https://youtu.be/AwzsZqmzP74 | Rilo Kiley - A Better Son/Daughter
+010 | https://youtu.be/Z6OlENvEdQY | Arctic Monkeys - A Certain Romance
+011 | https://youtu.be/XpQvGttbVF4 | JP Saxe - A Little Bit Yours
+012 | https://youtu.be/XpQvGttbVF4 | JP Saxe - A Little Bit Yours (Piano)
+013 | https://youtu.be/ZbVn3hyDkY8 | Asking Alexandria - A Prophecy
+014 | https://youtu.be/CgHNvCUSSvg | Aladdin - A Whole New World
+015 | https://youtu.be/25riE6PyRlo | GAYLE - ABCDEFU
+016 | https://youtu.be/FsTWqAKrD1U | Toto - Africa
+017 | https://youtu.be/FyIi1vK03wM | Paramore - Ain't It Fun
+018 | https://youtu.be/gZUDqDMImL4 | Cage the Elephant - Ain't No Rest for the Wicked
+019 | https://youtu.be/zvjhSC9_tjA | Bill Withers - Ain't No Sunshine
+020 | https://youtu.be/t_GR4iS81Fs | Empire Of The Sun - Alive
+021 | https://youtu.be/jrf8b820dMM | Flyleaf - All Around Me
+022 | https://youtu.be/wcBg7wXbfaw | Celine Dion - All By Myself
+023 | https://youtu.be/l3iEnBThkIc | Mariah Carey - All I Want For Christmas Is You
+024 | https://youtu.be/sOtdXKWtHyo | Paramore - All I Wanted
+025 | https://youtu.be/ABOYo7ioQJo | Smash Mouth - All Star
+026 | https://youtu.be/8GcxmRJJH2o | Ace of Base - All That She Wants
+027 | https://youtu.be/WCWHVRaBtLg | Blink-182 - All the Small Things
+028 | https://youtu.be/SD2cbVDIyKM | t.A.T.u. - All The Things She Said
+029 | https://youtu.be/zAbT9dr1R30 | Heart - Alone
+030 | https://youtu.be/Ovqfx_PqwpQ | Don McLean - American Pie
+031 | https://youtu.be/CWyFl8Cnpg8 | Weird Al Yankovic - Amish Paradise
+032 | https://youtu.be/iM9OJn8W7hQ | Sex Pistols - Anarchy in the U.K.
+033 | https://youtu.be/GjivXHAoLS4 | Shaggy ft. Rayvon - Angel
+034 | https://youtu.be/RzehoXvAFzw | A Day to Remember - Another Song About The Weekend (Acoustic)
+035 | https://youtu.be/U7CQKbusBi4 | Timberland ft. OneRepublic - Apologize
+036 | https://youtu.be/h51k6Imtsk8 | ROSÉ & Bruno Mars - APT.
+037 | https://youtu.be/Ncbof6a0A8E | Jet - Are You Gonna Be My Girl
+038 | https://youtu.be/JyKfmLkq3BU | Harry Styles - As it Was
+039 | https://youtu.be/LbzuL-pW7ns | Rag 'n' Bone Man - As You Are
+040 | https://youtu.be/ueA-n3cDRgk | Etta James - At Last
+041 | https://youtu.be/xmCZDr2vUEA | Saves the Day - At Your Funeral
+042 | https://youtu.be/IHWkNgnBlIY | Styx - Babe
+043 | https://youtu.be/nC2_eGQwTc0 | Sir Mix-A-Lot - Baby Got Back
+044 | https://youtu.be/PYpU2TxIzAM | Britney Spears - Baby One More Time
+045 | https://youtu.be/RjdtqEY7Qw0 | Cage the Elephant - Back Against The Wall
+046 | https://youtu.be/nturlhtt7WA | Amy Winehouse - Back To Black
+047 | https://youtu.be/VHpK1i6XnkY | Taylor Swift - Back to December
+048 | https://youtu.be/2LE0hcAIatA | Steve Lacy - Bad Habit
+049 | https://youtu.be/5O1cOaLSBaI | Beartooth - Bad Listener
+050 | https://youtu.be/m9bjNe3PsC4 | Social Distortion - Ball and Chain
+051 | https://youtu.be/AQOt75axc0Y | Aqua - Barbie Girl
+052 | https://youtu.be/UntbNt8rK4w | Green Day - Basket Case
+053 | https://youtu.be/AnKLwb7AMUc | No Doubt - Bathwater
+054 | https://youtu.be/AvhEFBXNM7Y | Afroman - Because I Got High
+055 | https://youtu.be/rmF3vDhY8HA | Ne Yo - Because of You
+056 | https://youtu.be/AqYrOoZpsjg | Carrie Underwood - Before He Cheats
+057 | https://youtu.be/Ope9onJ_yjs | Lewis Capaldi - Before You Go
+058 | https://youtu.be/_L8_e4nZZYo | Daniel Caesar & H.E.R. - Best Part
+059 | https://youtu.be/S5PtzYrNGaU | Khalid - Better
+060 | https://youtu.be/5HyStpLEsMk | Tom Misch - Better Days
+061 | https://youtu.be/fO-PS3q36FM | Pearl Jam - Better Man
+062 | https://youtu.be/INnLpR1jO78 | Leon Bridges - Beyond
+063 | https://youtu.be/VtDZQo-Ouy8 | Billie Eilish - Billie Bossa Nova
+064 | https://youtu.be/J_yZFlbnHxU | Billie Eilish - Birds of a Feather
+065 | https://youtu.be/MSO507GIaJM | The Verve - Bitter Sweet Symphony
+066 | https://youtu.be/wwjeB9VKPe4 | Soundgarden - Black Hole Sun
+067 | https://youtu.be/mY10QWZ37CM | Alannah Myles - Black Velvet
+068 | https://youtu.be/zjEuYztBbBo | Iggy Azalea - Black Widow
+069 | https://youtu.be/OM_AfTRA68Y | The Violent Femmes - Blister in the Sun
+070 | https://youtu.be/70QgHlH81dw | Puddle of Mudd - Blurry
+071 | https://youtu.be/9Lxm0iSnKNc | Queen - Bohemian Rhapsody
+072 | https://youtu.be/r8BdFXaYE8s | Green Day - Boulevard Of Broken Dreams
+073 | https://youtu.be/4ZKPz6SIXtk | Local H - Bound for the Floor
+074 | https://youtu.be/P7mD_x-p8O8 | Green Day - Brain Stew
+075 | https://youtu.be/-EHEJIHA9MQ | Breaking Benjamin - Breath
+076 | https://youtu.be/zyqASpDREMU | Paramore - Brick By Boring Brick
+077 | https://youtu.be/96PWPJFMud8 | MARINA - Bubblegum Bitch
+078 | https://youtu.be/OpLDbhHDc18 | The Smashing Pumpkins - Bullet with Butterfly Wings
+079 | https://youtu.be/1cBSkZZSn2E | Citizen Soldier - Bulletproof
+080 | https://youtu.be/oGyX11xJjgo | The Pussycat Dolls - Buttons
+081 | https://youtu.be/4DwB0wtMIy4 | *NSYNC - Bye Bye Bye
+082 | https://youtu.be/K1n5_8d0MsU | The Mamas & The Papas - California Dreamin'
+083 | https://youtu.be/h5jVkRtZ1Ck | Tupac ft. Dr Dre - California Love
+084 | https://youtu.be/6TDgsAYz6KY | Red Hot Chili Peppers - Californication
+085 | https://youtu.be/1gcko1tm5BY | Carly Rae Jepsen - Call Me Maybe
+086 | https://youtu.be/m0pLtlrtxSw | José Alfredo Jiménez - Caminos de Guanajuato
+087 | https://youtu.be/blAk0Zr9UAk | The Weeknd - Can't Feel My Face
+088 | https://youtu.be/fgqtiybjM9A | Elvis Presley - Can't Help Falling In Love (Piano)
+089 | https://youtu.be/Q5T9QB4Dp-A | Lauryn Hill - Can't Take My Eyes Off of You
+090 | https://youtu.be/1TIeDbnzp9M | George Michael - Careless Whisper
+091 | https://youtu.be/pX2BkCElPmk | Oasis - Champagne Supernova
+092 | https://youtu.be/b3iox_qUaUE | Sia - Chandelier
+093 | https://youtu.be/-LsqjSJMyEI | Malcolm Todd - Chest Pain (I Love)
+094 | https://youtu.be/Nudao8sP_u0 | Zac Brown Band - Chicken Fried
+095 | https://youtu.be/oHwRsI2aSDg | System of a Down - Chop Suey!
+096 | https://youtu.be/hlk6z9nJxGg | Post Malone - Circles
+097 | https://youtu.be/bUcieJ1EZ6Y | Gorillaz - Clint Eastwood
+098 | https://youtu.be/NsCjxrbfKNw | Carpenters - Close To You
+099 | https://youtu.be/QMYoiXCoWKs | Nine Inch Nails - Closer
+100 | https://youtu.be/GAmP8W2PPrQ | Semisonic - Closing Time
+101 | https://youtu.be/ZRLWN7p_kUk | Eric Clapton - Cocaine
+102 | https://youtu.be/Xvf-NBe2JQo | Nirvana - Come As You Are
+103 | https://youtu.be/QnEYA2q_ofw | Pink Floyd - Comfortable Numb
+104 | https://youtu.be/d6mToWZXZKA | Selena - Como La Flor
+105 | https://youtu.be/7Qj3rb4dJsM | Patsy Cline - Crazy
+106 | https://youtu.be/nOz8QRycPRo | Gnarls Barkley - Crazy
+107 | https://youtu.be/cMXGjNsXNAw | Queen - Crazy Little Thing Called Love
+108 | https://youtu.be/kWdZBNEzdOU | Stone Temple Pilots - Creep
+109 | https://youtu.be/3WLy3AblvmQ | Radiohead - Creep
+110 | https://youtu.be/mYtJqo0GI5A | Fiona Apple - Criminal
+111 | https://youtu.be/TJws4QnwmBc | Living Colour - Cult of Personality
+112 | https://youtu.be/mNL7iE-CxXA | Anna Kendrick - Cups
+113 | https://youtu.be/iduMbx9xHls | Taking Back Sunday - Cute Without the "E"
+114 | https://youtu.be/4LbjyKPslWU | Ashnikko - Daisy
+115 | https://youtu.be/DIqRES2HVwU | Blink-182 - Dammit
+116 | https://youtu.be/jp67tX4i54c | Tones and I - Dance Monkey
+117 | https://youtu.be/px7FZ_kLHZI | Breaking Benjamin - Dance With The Devil
+118 | https://youtu.be/pGAU4O3Gtis | King Harvest - Dancing in the Moonlight
+119 | https://youtu.be/OkwI4aHGnGM | Ariana Grande - Dangerous Woman
+120 | https://youtu.be/10I8_N86ELY | Stone Temple Pilots - Dead & Bloated
+121 | https://youtu.be/-zAcMS4hWgQ | Breaking Benjamin - Dear Agony
+122 | https://youtu.be/1gOcVjO9cxQ | All Time Low - Dear Maria, Count Me In
+123 | https://youtu.be/QThJlC1W5hQ | Luis Fonsi ft. Daddy Yankee - Despacito
+124 | https://youtu.be/QNkM8K0e3hQ | Eagles - Desperado
+125 | https://youtu.be/tEVI0JP3E_Q | Noah Kahan & Post Malone - Dial Drunk
+126 | https://youtu.be/h7dibTBNtjQ | Michael Jackson - Dirty Diana
+127 | https://youtu.be/IIoQy1QdCp8 | The All-American Rejects - Dirty Little Secert
+128 | https://youtu.be/ibOx37zoRAc | Agatha Lee Monn, Katie Lopez, & Kristen Bell - Do You Want To Build A Snowman? (Frozen)
+129 | https://youtu.be/OPmFTDWoW60 | Elton John & Kiki Dee - Don't Go Breaking My Heart
+130 | https://youtu.be/gwqmjTl3_kA | Norah Jones - Don't Know Why
+131 | https://youtu.be/JtiocB8PYPs | No Doubt - Don't Speak
+132 | https://youtu.be/c8wn2fMYvns | Journey - Don't Stop Believin'
+133 | https://youtu.be/mLJlUoPhjA8 | The Pussycat Dolls - Dontcha
+134 | https://youtu.be/fubhLZJWwjk | Lauryn Hil - Doo Wop (That Thing)
+135 | https://youtu.be/alQMcc5LI5Q | Beartooth - Doubt Me
+136 | https://youtu.be/QhhCfHG_oMc | The Head and the Heart - Down in The Valley
+137 | https://youtu.be/4qtbwvHMhYA | Tame Impala - Dracula
+138 | https://youtu.be/XC_46Lr6R9M | Doris Day - Dream A Little Dream Of Me
+139 | https://youtu.be/x9Sy1jtmB7w | Aerosmith - Dream On
+140 | https://youtu.be/cnTQFPdPQLM | The Cranberries - Dreams
+141 | https://youtu.be/r9tBaVzpsJ4 | Fleetwood Mac - Dreams
+142 | https://youtu.be/zJmgDs62d8A | Incubus - Drive
+143 | https://youtu.be/C3y6jGCXiUA | Olivia Rodrigo - Drivers License
+144 | https://youtu.be/snRQ5pTebgQ | Snoop Dog - Drop It Like It's Hot
+145 | https://youtu.be/fjOrDT2ICrs | Train - Drops of Jupiter
+146 | https://youtu.be/YPlh6y-MYPY | Flogging Molly - Drunken Lullabies
+147 | https://youtu.be/chgJRSs_WwI | Bad Bunny - DtMF
+148 | https://youtu.be/5sRMoUoI7uM | Slipknot - Duality
+149 | https://youtu.be/X7oXemjWKqQ | Marvin Berry & Starlighters - Earth Angel
+150 | https://youtu.be/hQH8ng7lP-U | Stevie Nicks - Edge of Seventeen
+151 | https://youtu.be/rjPg9JqTxkY | Boyz II Men - End of the Road
+152 | https://youtu.be/yql3utDWq_0 | Da Vinci's Notebook - Enormous Penis
+153 | https://youtu.be/sMzAotfj6Cg | Metallica - Enter Sandman
+154 | https://youtu.be/k2cqRABZApc | Foo Fighters - Everlong
+155 | https://youtu.be/AL8DYrpvalI | Lauryn Hill - Ex-Factor
+156 | https://youtu.be/jk6YGHJVEHY | JP Saxe - Explain You
+157 | https://youtu.be/9TcBjXocP8U | Citizen Soldier - Face To Face
+158 | https://youtu.be/__OMbeSpp4Y | Mazzy Star - Fade Into You
+159 | https://youtu.be/t-6W7X3ixCg | Rancid - Fall Back Down
+160 | https://youtu.be/vYhxIYhFVk0 | Popular Monster - Falling In Reverse
+161 | https://youtu.be/5Ed0GIyStVQ | Mary J. Blige - Family Affair
+162 | https://youtu.be/tdsc1aST60k | Hank Williams Jr. - Family Tradition
+163 | https://youtu.be/nrV7e6ASomM | Iggy Azalea & Charli Xcx - Fancy
+164 | https://youtu.be/k-x1KRJeGF4 | King Princess - Fantastic
+165 | https://youtu.be/VbkUuIXXyb4 | Gorillaz - Feel Good Inc.
+166 | https://youtu.be/oqJ1c9WwXfc | Michael Bublé - Feeling Good
+167 | https://youtu.be/VMiQSiWY4xg | Peggy Lee - Fever
+168 | https://youtu.be/1lbWOZRtj2A | Owl City - Fireflies
+169 | https://youtu.be/HiqiuUA6OxI | Katy Perry - Firework
+170 | https://youtu.be/yI2T7_wvOJs | Coldplay - Fix You
+171 | https://youtu.be/jNhYToGzf_I | Modest Mouse - Float On
+172 | https://youtu.be/fO4wsNsXtDg | Miley Cyrus - Flower
+173 | https://youtu.be/yqoQeOtskas | Frank Sinatra - Fly Me To The Moon
+174 | https://youtu.be/HXtq2ezPyEk | Uncle Kracker - Follow Me
+175 | https://youtu.be/prJpTo4jsc8 | Jewel - Foolish Games
+176 | https://youtu.be/l-hN9wzbPJE | Cee Lo Green - Forget You
+177 | https://youtu.be/dQSOHx0VgSs | Victorious (Victoria Justice) - Freak the Freak Out
+178 | https://youtu.be/SBj56jqk_wk | Saves the Day - FREAKISH
+179 | https://youtu.be/8wYyvxLtr-c | Childish Gambino - Freaks and Geeks
+180 | https://youtu.be/CA4J8IJiKE0 | Childish Gambino - Freaks And Geeks
+181 | https://youtu.be/ziQpMn-32WQ | Beartooth - Free
+182 | https://youtu.be/ikM1nwLLSKg | Lynyrd Skynyrd - Freebird
+183 | https://youtu.be/TClQ0UcqyzI | Rebecca Black - Friday
+184 | https://youtu.be/kHPI6562b7Q | Robin Williams - Friend Like Me (Aladdin)
+185 | https://youtu.be/07ROtJNfq28 | Garth Brooks - Friends in Low Places
+186 | https://youtu.be/GFy08U8lsf4 | Coolio feat. L.V. - Gangsta's Paradise
+187 | https://youtu.be/bT9j11x9EzQ | Electric Six - Gay Bar
+188 | https://youtu.be/X5QpyMGB-X4 | Thomas Headon - Georgia
+189 | https://youtu.be/SInp8ZuXSAw | P!nk - Get the Party Started
+190 | https://youtu.be/JkcBl0bAesE | Kamelot - Ghost Opera
+191 | https://youtu.be/H18SVaz-heA | ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)
+192 | https://youtu.be/dK0jVG8BPVA | Little Big Town - Girl Crush
+193 | https://youtu.be/vpFlkd-aCM0 | Alicia Keys - Girl on Fire
+194 | https://youtu.be/Ryr2ykoMcGQ | Girl In Red - Girls
+195 | https://youtu.be/-Fg7m1ZqkxI | Cyndi Lauper - Girls Just Want To Have Fun
+196 | https://youtu.be/aqZEBQj6rLI | Rise Against - Give It All
+197 | https://youtu.be/bJiEojPrQBk | Eminem ft Juice WRLD - Godzilla
+198 | https://youtu.be/hmgPwlcQHHg | Evanescence - Going Under
+199 | https://youtu.be/X2rAJqyomAE | Kanye West feat Jamie Foxx - Gold Digger
+200 | https://youtu.be/fQ7Bt10jUfM | Huntrix - Golden (Kpop Demon Hunters)
+201 | https://youtu.be/L409x_gvwm8 | Olivia Rodrigo - Good 4 U
+202 | https://youtu.be/w5ykSKc0IM0 | Josie Edwards - Good Girls (Acoustic)
+203 | https://youtu.be/EPSP6sKcV4I | Chappell Roan - Good Luck, Babe!
+204 | https://youtu.be/xy9r0vhOVpk | Green Day - Good Riddance (Time of Your Life)
+205 | https://youtu.be/4S7sPYA_6hs | Imogen Heap - Goodnight and Go
+206 | https://youtu.be/tL8xRxW-sJE | Leonard Cohen - Hallelujah  (Higher Key)
+207 | https://youtu.be/-SFMIQq4DDU | Billie Eilish - Halley's Comet
+208 | https://youtu.be/OdGsvNDkeMY | Flobots - Handlebars
+209 | https://youtu.be/m4KOSv76I-A | Dashboard Confessional - Hands Down
+210 | https://youtu.be/76vLNqL7-8w | Pharrell Williams - Happy
+211 | https://youtu.be/KMOOr7GEkj8 | Rihanna ft. Mikky Ekko - Hate That I Love You
+212 | https://youtu.be/hRly5NjDavk | Beartooth - Hated
+213 | https://youtu.be/ZoU0WPU8f5c | Creedence Clearwater Revival - Have You Ever Seen The Rain (Acoustic)
+214 | https://youtu.be/6M8KnifOGj4 | Alanis Morissette - Head Over Feet
+215 | https://youtu.be/QKVoyduL0IM | Yeah Yeah Yeahs - Heads Will Roll
+216 | https://youtu.be/v-94bGaRIPU | Marilyn Manson - Heart Shaped Glasses
+217 | https://youtu.be/K2COGfd1ZVs | Orange & Lemons - Heaven Knows
+218 | https://youtu.be/uixkkqOQoD0 | Lionel Richie - Hello
+219 | https://youtu.be/E45gUUabudU | Phum Viphurit - Hello Anxiety
+220 | https://youtu.be/hn5gTOO90iI | Fuel - Hemorrhage (In My Hands)
+221 | https://youtu.be/khYWubM1Q9Y | Rise Against - Hero Of War
+222 | https://youtu.be/enmHYsoCMkQ | The Beatles - Hey Jude
+223 | https://youtu.be/ZakEbWobIj0 | Plain White T's - Hey There Delilah
+224 | https://youtu.be/W1ChFa02_U8 | Outkast - Hey Ya
+225 | https://youtu.be/6xJocwe46RM | Creed - Higher
+226 | https://youtu.be/BYj3Hv915Yw | The Wellermen - Hoist the Colours
+227 | https://youtu.be/Xc3E-YBjI18 | A Day to Remember - Holdin' It Down For The Underground
+228 | https://youtu.be/jF4xOhCdrlo | Olivia Newton John - Hopelessly Devoted To You
+229 | https://youtu.be/U1uTOOuXqIs | Donna Summers - Hot Stuff
+230 | https://youtu.be/tRAVVvXUKDA | Chappell Roan - HOT TO GO!
+231 | https://youtu.be/sSTjIvLIWu0 | Eagles - Hotel California
+232 | https://youtu.be/C-tbyJLrTPc | The Animals - House of the Rising Sun
+233 | https://youtu.be/ChzKyGylpE4 | Ren x CHINCHILLA - How to be me
+234 | https://youtu.be/J_FhZ-n3B5M | Nickleback - How You Remind Me
+235 | https://youtu.be/GYGMFVnTB6I | Third Eye Blind - How's It Going to Be
+236 | https://youtu.be/U4Zi7K45CJk | Temple of the Dog - Hunger Strike
+237 | https://youtu.be/lKkZ6MCtspE | Johnny Cash - Hurt
+238 | https://youtu.be/2dnh8g1oNDI | Muse - Hysteria
+239 | https://youtu.be/RBx5LTWTpeY | Audioslave - I Am the Highway
+240 | https://youtu.be/-yo3JZzYu38 | The Darkness - I Believe in a Thing Called Love
+241 | https://youtu.be/6fsWSZV0H_A | Selena - I Could Fall In Love
+242 | https://youtu.be/XBjgkkZ0D_E | Sonny & Cher - I Got You Babe
+243 | https://youtu.be/GzoTgLGX7IM | The Black Eyed Peas - I Gotta Feeling
+244 | https://youtu.be/LFXCgHs-jxo | Jonathan Taylor Thomas - I Just Can't Wait to be King (The Lion King)
+245 | https://youtu.be/3S2hefhkxHc | Bette Midler - I Put a Spell on You (Hocus Pocus)
+246 | https://youtu.be/hmxv0vlQ4h4 | Mandy Moore & Zachary Levi - I See the Light (Tangled)
+247 | https://youtu.be/toavzQRu5n0 | The Divinyls - I Touch Myself
+248 | https://youtu.be/lGhkuc2T_mc | Ramones - I Wanna Be Sedated
+249 | https://youtu.be/st-yPBxRVPM | Whitney Houston - I Wanna Dance With Somebody
+250 | https://youtu.be/IjFeGYAT-5E | Backstreet Boys - I Want It That Way
+251 | https://youtu.be/p1r1DHgYm9Y | Foreigner - I Want To Know What Love Is
+252 | https://youtu.be/8kotNQ07ZEw | Whitney Houston - I Will Always Love You
+253 | https://youtu.be/BbsGlgEsgqA | Death Cab for Cutie - I Will Follow You Into the Dark
+254 | https://youtu.be/FsUa8P-L2Ag | Gloria Gaynor - I Will Survive
+255 | https://youtu.be/QJmL664nLhA | Hercules - I Won't Say (I'm In Love)
+256 | https://youtu.be/q4-j_-CHAJk | Panic! At The Disco - I Write Sins Not Tragedies
+257 | https://youtu.be/q4S2kAJ1JA8 | Donny Osmond - I'll Make a Man Out of You (Mulan)
+258 | https://youtu.be/0SCkJ9b-cuE | Smash Mouth - I'm a Believer (Shrek)
+259 | https://youtu.be/todkH3ci90k | Hex girl - I'm gonna put a spell on you
+260 | https://youtu.be/B7OpLSunE_w | Ryan Gosling - I'm Just Ken (Barbie)
+261 | https://youtu.be/nfx-9IA6Ot8 | Nelly Furtado - I'm Like a Bird
+262 | https://youtu.be/fUsDD6OWLEg | A Day to Remember - I'm Made Of Wax, Larry, What Are You Made Of?
+263 | https://youtu.be/SDCJuLkha6k | Citizen Soldier - I'm Not Okay
+264 | https://youtu.be/93M7GMdxF3s | Sam Smith - I'm Not The Only One
+265 | https://youtu.be/ktqMHeawQuI | The Lonely Island ft. T-Pain - I'm on a Boat
+266 | https://youtu.be/0WnFM5iCol4 | Dropkick Murphys - I'm Shipping Up to Boston
+267 | https://youtu.be/-7VAFwnDoAw | Flyleaf - I'm So Sick
+268 | https://youtu.be/kn8YiDSYcq4 | Jason Mraz - I'm Yours
+269 | https://youtu.be/3FYde21aaKI | Vanilla Ice - Ice Ice Baby
+270 | https://youtu.be/yBwqQxVXt1o | Cher - If I Could Turn Back Time
+271 | https://youtu.be/DqMVqruASE8 | Flogging Molly - If I Ever Leave This World Alive
+272 | https://youtu.be/e3pWWSNkwEs | Beyoncé - If I Were a Boy
+273 | https://youtu.be/0bWyV22Gzhw | Cheryl Crow - If It Makes You Happy
+274 | https://youtu.be/_dTg6V9Qc_c | A Day to Remember - If It Means a Lot to You
+275 | https://youtu.be/biGcnBaoJ4c | Tonic - If You Could Only See
+276 | https://youtu.be/30jXkZxbkyI | Paramore - Ignorance
+277 | https://youtu.be/1QTiGL_dr9c | 50 Cent - In Da Club
+278 | https://youtu.be/e5AA28S08zg | Iron Butterfly - In-A-Gadda-Da-Vida
+279 | https://youtu.be/FZmJk_1iZUQ | Tom Misch - Insecure
+280 | https://youtu.be/OqtWMNZS-M0 | Goo Goo Dolls - Iris
+281 | https://youtu.be/p1kgMiUe7Jw | Whitesnake - Is This Love
+282 | https://youtu.be/VZk7YtBdwZg | Ice Cube - It Was A Good Day
+283 | https://youtu.be/Oob8OwGwd50 | Shaggy - It Wasn't Me
+284 | https://youtu.be/-be4_Z5yfSA | Celine Dion - It's All Coming Back To Me Now
+285 | https://youtu.be/fMMCdBJS_Bs | Staind - It's Been Awhile
+286 | https://youtu.be/kgw-LzYo1IU | Skycycle - It's Terror Time Again
+287 | https://youtu.be/iOLhtX2T7jM | Rick Springfield - Jessie’s Girl
+288 | https://youtu.be/atBrQUyvcY4 | Bobby Helms - Jingle Bell Rock
+289 | https://youtu.be/DJM8cl7k4oc | Chuck Berry - Johnny B. Goode
+290 | https://youtu.be/r9lVYyhkqUU | Dolly Parton - Jolene
+291 | https://youtu.be/kfFe_lj9uIU | Doja Cat - Juicy
+292 | https://youtu.be/-kajtUjB-QA | Kris Kross - Jump
+293 | https://youtu.be/qw8jfCXA9MA | Third Eye Blind - Jumper
+294 | https://youtu.be/tFW-2lbxEF8 | Biz Markie - Just a Friend
+295 | https://youtu.be/yIyW2lcapHs | Grover Washington Jr ft. Bill Withers - Just The Two Of Us
+296 | https://youtu.be/OEc9U6Prxos | SZA - Kill Bill
+297 | https://youtu.be/DKTlrfsLuhA | Fugees - Killing Me Softly With His Song
+298 | https://youtu.be/bwiYjnW23Os | Sixpence None The Richer - Kiss Me
+299 | https://youtu.be/RhoCrZsfuj8 | Guns N' Roses - Knockin' on Heaven's Door
+300 | https://youtu.be/cPy76ubniOI | Freak on a Leash - Korn
+301 | https://youtu.be/-sAGqzSkVKQ | 3 Doors Down - Kryptonite
+302 | https://youtu.be/9LP71ypf2qg | Los Lobos - La Bamba
+303 | https://youtu.be/sFTGnT3w7QE | Chris de Burgh - Lady in Red
+304 | https://youtu.be/KQ0eTKWm3H4 | Lamb of God - Laid to Rest
+305 | https://youtu.be/6jmSlW6MQAA | A Day to Remember - Last Chance to Dance (Bad Friend)
+306 | https://youtu.be/u-AR6JBjj3M | The Strokes - Last Night
+307 | https://youtu.be/_3tcoPQy_hg | Rag 'n' Bone Man - Lay My Body Down
+308 | https://youtu.be/-SL7x2fmvq0 | Silversun Pickups - Lazy Eye
+309 | https://youtu.be/p84rf4mz0MM | Bill Withers - Lean On Me
+310 | https://youtu.be/OhRUYf_yn_s | The Beatles - Let It Be
+311 | https://youtu.be/ifCAfAzOBJM | Idina Menzel - Let It Go (Frozen)
+312 | https://youtu.be/xEwPVphGS70 | Mario - Let Me Love You
+313 | https://youtu.be/IjbMyu7PqR4 | The Head And The Heart - Let's Be Still
+314 | https://youtu.be/nK9hD9_SAdU | Dua Lipa - Levitating
+315 | https://youtu.be/mTW-Ut83PPU | Madonna - Like a Prayer
+316 | https://youtu.be/El8l9Y463lE | Audioslave - Like a Stone
+317 | https://youtu.be/2knSKufhp_U | DaniLeigh - Lil Bebe
+318 | https://youtu.be/sAMV166Cdik | Hinder - Lips of an Angel
+319 | https://youtu.be/tOAs-c5jiuQ | Ricky Martin - Livin' La Vida Loca
+320 | https://youtu.be/Ep6G3P2v5ZA | Bon Jovi - Livin' On A Prayer
+321 | https://youtu.be/Ep6G3P2v5ZA | Bon Jovi - Livin' on a Prayer
+322 | https://youtu.be/-h6zdzLK-hE | Teddy Swims - Lose Control
+323 | https://youtu.be/F-p2BQ4H1nA | Eminem - Lose Yourself
+324 | https://youtu.be/S-m_QJfopzg | FKJ & Tom Misch - Losing My Way
+325 | https://youtu.be/8R1xIYOwxRA | Ruth B - Lost Boy
+326 | https://youtu.be/9Mpv9Wlij5g | LP - Lost On You
+327 | https://youtu.be/IWw-LQ2qM3c | Kristen Bell & Santino Fontana - Love is an Open Door (Tangled)
+328 | https://youtu.be/QJdi8UFrjkY | Rihanna - Love on the Brain
+329 | https://youtu.be/XwpXpPA4ME4 | Beyoncé - Love on Top
+330 | https://youtu.be/ezjrgMVuceg | The B-52s - Love Shack
+331 | https://youtu.be/Ff6b1-hQBHM | Eagles - Love Will Keep Us Alive (Lower Key)
+332 | https://youtu.be/A7gF5FAs6zQ | The Cardigans - Lovefool
+333 | https://youtu.be/CGXeSUtbhFk | Billie Eilish ft Khalid - Lovely
+334 | https://youtu.be/0npslAlw3PE | Phum Viphurit - Loverboy
+335 | https://youtu.be/JAQsnvmqOvg | NIKI - lowkey
+336 | https://youtu.be/WvwLg_yHwao | Billie Eilish - LUNCH
+337 | https://youtu.be/xQc1GXiVHSI | Ozzy Osbourne - Mama, I'm Coming Home
+338 | https://youtu.be/1YN5Emwwoss | ABBA - Mamma Mia
+339 | https://youtu.be/Iitjkavix2c | Alice In Chains - Man in the Box
+340 | https://youtu.be/Q9fF9kSdDzU | The Soggy Bottom Boys - Man of Constant Sorrow
+341 | https://youtu.be/DRreY8aw3CE | Shania Twain - Man! I Feel Like a Woman!
+342 | https://youtu.be/rKlbHPxy19o | Jimmy Buffett - Margaritaville
+343 | https://youtu.be/3WxpE2CGQA0 | Lagwagon - May 16
+344 | https://youtu.be/y5Gzc-CWWcU | Liza Minnelli - Maybe This Time
+345 | https://youtu.be/xzJIKaZr-7o | Soap&Skin - Me And The Devil
+346 | https://youtu.be/mG-occ2cGvI | Lola Young - Messy
+347 | https://youtu.be/NzEHxKHOxcQ | Zara Larsson - Midnight Sun
+348 | https://youtu.be/FsdNPxdmzEM | Beartooth - Might Love Myself
+349 | https://youtu.be/u1-BxJHaK4o | A Day to Remember - Miracle
+350 | https://youtu.be/dZUHFTH2wYY | Paramore - Misery Business
+351 | https://youtu.be/-fVgl9-Zx3k | Bobby "Boris" Pickett - Monster Mash
+352 | https://youtu.be/82XUruGw1-0 | Audrey Hepburn - Moon River
+353 | https://youtu.be/xp1bRW9nSvM | Ashe - Moral Of The Story
+354 | https://youtu.be/SeoZ8Us_Frg | The Lonely Island - MotherLover
+355 | https://youtu.be/R5WmlVqRf9I | The All-American Rejects - Move Along
+356 | https://youtu.be/ViexBUcAayI | Marron 5 ft. Christina Aguilera - Moves Like Jagger
+357 | https://youtu.be/c1X3Lg7RVkk | The Killers - Mr Brightside
+358 | https://youtu.be/gNT51TOCzxs | A Day to Remember - Mr. Highway's Thinking About The End
+359 | https://youtu.be/mfivXPztcKU | Counting Crows - Mr. Jones
+360 | https://youtu.be/3lI0cNEvDS4 | Mariah Carey - My All
+361 | https://youtu.be/wo1dP_1MlcM | Eels - My Beloved Monster
+362 | https://youtu.be/vUTQ4LTFgyU | Killswitch Engage - My Curse
+363 | https://youtu.be/lx9-RDJo5Sg | Mickey Avalon - My Dick
+364 | https://youtu.be/Dv4s4KFptCE | Evanescence - My Immortal
+365 | https://youtu.be/Soe46gedCME | Citizen Soldier - My Own Miracle
+366 | https://youtu.be/wNelP4rbAKQ | Lit - My Own Worst Enemy
+367 | https://youtu.be/tAEek8nO11c | Frank Sinatra - My Way
+368 | https://youtu.be/Qxugn6Or0oE | Loren Allred - Never Enough (The Greatest Showman)
+369 | https://youtu.be/kH9_meN7WqQ | One Direction - Night Changes
+370 | https://youtu.be/_9WII3ShrFU | Bob Seger - Night Moves
+371 | https://youtu.be/OpGqUVs_0oY | Millencolin - No Cigar
+372 | https://youtu.be/H_bL3OyKBLw | Waka Flocka Flame / Roscoe Dash / Wale - No Hands (feat. Roscoe Dash & Wale)
+373 | https://youtu.be/iVDZOAP6q6E | Selena - No me queda más
+374 | https://youtu.be/wBCI7Sn0UVA | Blind Melon - No Rain
+375 | https://youtu.be/CUFIRtDz-Oo | TLC - No Scrubs
+376 | https://youtu.be/HuMBUNSFzMY | Bob Marley - No Woman, No Cry
+377 | https://youtu.be/Sva52nyWHyM | The Marías - Nobody New
+378 | https://youtu.be/0YhPypi67EI | Death Cab for Cutie - Northern Lights
+379 | https://youtu.be/91OF2UkJHAQ | Kendrick Lamar - Not Like Us
+380 | https://youtu.be/VCo6FYVwAzI | Metallica - Nothing Else Matters
+381 | https://youtu.be/evKkPPmO-ac | Monsune - Nothing in Return
+382 | https://youtu.be/G0KmvVEwaTI | Eels - Novocaine For The Soul
+383 | https://youtu.be/BPzZyiVeRBc | Bad Bunny - NUEVAYoL
+384 | https://youtu.be/ZA0IsQK1jGM | Linkin Park - Numb
+385 | https://youtu.be/7pVw31ep4LU | Yellowcard - Ocean Avenue
+386 | https://youtu.be/tPjG8iwHR-A | Billie Eilish - Ocean Eyes
+387 | https://youtu.be/FOrx4KV_V68 | Lil Nas X - Old Town Road
+388 | https://youtu.be/WW2QjtOEeUM | Liz Callaway - Once Upon a December (Anastasia)
+389 | https://youtu.be/HDLIqINw5T0 | The Wallflowers - One Headlight
+390 | https://youtu.be/c8iQHaMyufw | Cil - One More Shot
+391 | https://youtu.be/E9ylEX5AFLs | Joan Osborne - One of Us
+392 | https://youtu.be/GO7jxGpAZzw | Blondie - One Way or Another
+393 | https://youtu.be/eZOhZFFpdU4 | Barenaked Ladies - One Week
+394 | https://youtu.be/vPHuPbXNMBo | The Nightmare Before Christmas - Oogie Boogie's Song
+395 | https://youtu.be/yK2FcV5Uthk | Red Hot Chili Peppers - Otherside
+396 | https://youtu.be/mknTPkpvyiQ | Monsune - Outta My Mind
+397 | https://youtu.be/HwAn7wZaakQ | A Day to Remember - Over My Head (Cable Car)
+398 | https://youtu.be/R7k3OkzRwEE | The Fray - Over My Head (Cable Car)
+399 | https://youtu.be/OWTaPkqAoW0 | Judy Garland - Over the Rainbow (The Wizard of Oz)
+400 | https://youtu.be/p2XnI-sKW68 | Lizzie McAlpine - Pancakes for Dinner
+401 | https://youtu.be/WpvxBd5VygI | A Day to Remember - Paranoia
+402 | https://youtu.be/H0QwKsMHwoc | Incubus - Pardon Me
+403 | https://youtu.be/wnWKoEATxh8 | Jodi Benson - Part of Your World (The Little Mermaid)
+404 | https://youtu.be/kfa-26JfdDA | Miley Cyrus - Party In The USA
+405 | https://youtu.be/DVg9LQLc2hU | Marilyn Manson - Personal Jesus
+406 | https://youtu.be/rW2541x8VzY | Billy Joel - Piano Man
+407 | https://youtu.be/dBzxqv38Rkk | Ashlee Simpson - Pieces Of Me
+408 | https://youtu.be/XRNs-79MM4c | Aerosmith - Pink
+409 | https://youtu.be/d4L7iymCVHk | Chappell Roan - Pink Pony Club
+410 | https://youtu.be/WhT2Db8PZAU | Bea Miller - Playground
+411 | https://youtu.be/3hc24MkUdhM | Sabrina Carpenter - Please Please Please
+412 | https://youtu.be/D1Q4GvpgwNA | Stone Temple Pilots - Plush (Acoustic)
+413 | https://youtu.be/LHDOYGz_iGs | Wicked - Popular
+414 | https://youtu.be/R-YPJ-rfJSI | Rise Against - Prayer of The Refugee
+415 | https://youtu.be/I4MBCMe3jaI | Qveen Herby - Pre Roll
+416 | https://youtu.be/bcZ0xDK--f4 | The Offspring - Pretty Fly (For a White Guy)
+417 | https://youtu.be/yhAapwBsgwM | Airana Grande & Iggy Azalea - Problem
+418 | https://youtu.be/MSJleejyovQ | Creedence Clearwater Revival - Proud Mary
+419 | https://youtu.be/OjE3mRXOtcY | Talking Heads - Psycho Killer
+420 | https://youtu.be/t992c7EICnw | Dead Milkmen - Punk Rock Girl
+421 | https://youtu.be/_4hTPqABZNc | Corinne Bailey Rae - Put Your Records On
+422 | https://youtu.be/xddl6B_QZ5Y | Lady Gaga & Ariana Grande - Rain on Me
+423 | https://youtu.be/l_yOem_m8_Y | Grant MacDonald - Ram Ranch
+424 | https://youtu.be/wixbgFELqCg | Eminem - Rap God
+425 | https://youtu.be/sJZOoWKaM84 | Boney M. - Rasputin
+426 | https://youtu.be/XJ7nAnanTkg | Rise Against - Re Education Through Labor
+427 | https://youtu.be/YZgfcptVuXs | Billy Idol - Rebel Yell
+428 | https://youtu.be/0ph4C8WF8fk | Bob Marley - Redemption song (Acoustic)
+429 | https://youtu.be/-EVM538kELk | Warren G & Nate Dogg - Regulate
+430 | https://youtu.be/KpiZ_5ESpAk | Amy Winehouse - Rehab
+431 | https://youtu.be/H4U4DvpPd80 | Styx - Renegade
+432 | https://youtu.be/GflU7ZPgUNc | A Day to Remember - Right Back At It Again
+433 | https://youtu.be/ei-VpgPozgQ | Johnny Cash - Ring of Fire
+434 | https://youtu.be/ZJTOiPwsrDE | No Doubt - Rock Steady
+435 | https://youtu.be/6BbMNfaK1To | Elton John - Rocket Man
+436 | https://youtu.be/B3O1OlTWXSA | Adele - Rolling in the Deep
+437 | https://youtu.be/B-dZYnygHBM | Alice In Chains - Rooster
+438 | https://youtu.be/Iiio9JeaBg4 | Lorde - Royals
+439 | https://youtu.be/uZ6qzINxU8I | Rihanna - S&M
+440 | https://youtu.be/Br9Mp_kiplk | The Nightmare Before Christmas - Sally's Song
+441 | https://youtu.be/VIgsBLfcnZQ | Eartha Kitt - Santa Baby
+442 | https://youtu.be/HFWizcyrNko | Everclear - Santa Monica
+443 | https://youtu.be/DEYc9CFmncM | Sublime - Santaria
+444 | https://youtu.be/iUrcpx5ePzw | Rise Against - Satellite
+445 | https://youtu.be/JhipPliGz-E | Bahari - Savage
+446 | https://youtu.be/EAPVBbxbdIc | Eagle-Eye Cherry - Save Tonight
+447 | https://youtu.be/sOL6ADvrdQo | Rise Against - Savior
+448 | https://youtu.be/7zvfwCFgDtE | Weezer - Say It Ain't So
+449 | https://youtu.be/CzgO_PbxE3w | Red Hot Chili Peppers - Scar Tissue
+450 | https://youtu.be/suc15X7t6vg | The Offspring - Self Esteem
+451 | https://youtu.be/cKRmRYad318 | Earth, Wind & Fire - September
+452 | https://youtu.be/jokaT_KIReY | The White Stripes - Seven Nation Army
+453 | https://youtu.be/vCNNEzlwwQk | Kings of Leon - Sex on Fire
+454 | https://youtu.be/_nHT_k9Rswc | Lady Gaga & Bradley Cooper - Shallow
+455 | https://youtu.be/rDDLpG9CMPM | Tal Bachman - She's So High
+456 | https://youtu.be/-OgSpg50T5c | Ramones - Sheena is a Punk Rocker
+457 | https://youtu.be/fTspLhMJUT0 | Collective Soul - Shine
+458 | https://youtu.be/Ehpoe53Ic4o | Salt 'n' Pepa - Shoop
+459 | https://youtu.be/w1FjcJ3O-fQ | CAKE - Short Skirt / Long Jacket
+460 | https://youtu.be/71qqtDWFVl4 | Walk The Moon - Shut Up And Dance
+461 | https://youtu.be/eaW093QRXDA | Alejandro Fernández - Si Tú Supieras
+462 | https://youtu.be/0OZ2noF_McY | Brand New - Sic Transit Gloria ... Glory Fades
+463 | https://youtu.be/9jqOHxZfMVE | A Day to Remember - Silence
+464 | https://youtu.be/0JPtKb4YjrA | Lynyrd Skynyrd - Simple Man
+465 | https://youtu.be/EhXrMp6Izjg | Dixie Chicks - Sin Wagon
+466 | https://youtu.be/v8OByNS0H-A | A Day To Remember - Since U Been Gone
+467 | https://youtu.be/B8S0l--gHgA | Kelly Clarkson - Since U Been Gone
+468 | https://youtu.be/LuAP8R3LYeQ | Avril Lavigne - Sk8er Boi
+469 | https://youtu.be/qr_ag4ch7Jc | Euclid - Sleep Token
+470 | https://youtu.be/HaWbUTiLEm8 | Ashnikko ft. Princess Nokia - Slumber Party
+471 | https://youtu.be/lMdvpJpaolE | Nirvana - Smells Like Teen Spirit
+472 | https://youtu.be/w9EdPSoOMXY | Deep Purple - Smoke on the Water
+473 | https://youtu.be/_hW3tbtfvUo | Slipknot - Snuff
+474 | https://youtu.be/GP--9mr31x8 | Breaking Benjamin - So Cold
+475 | https://youtu.be/C_drdtAPF6Y | Ne Yo - So Sick
+476 | https://youtu.be/Vo44URc7csw | Saja Boys - Soda Pop (Kpop Demon Hunters)
+477 | https://youtu.be/jiJ4_-jVHYI | Clairo - Sofia
+478 | https://youtu.be/RyuoZy-a7eY | Phum Viphurit - Softly Spoken
+479 | https://youtu.be/rMSQwIp4Jg8 | Adele - Someone Like You
+480 | https://youtu.be/mVepiMsy5mc | Lewis Capaldi - Someone You Loved
+481 | https://youtu.be/Y5FxpbRvxfo | Nirvana - Something In The Way
+482 | https://youtu.be/2pmKdoQhQno | A Day To Remember - Sometimes You're The Hammer, Sometimes You're The Nail
+483 | https://youtu.be/l5shwZTwHec | Keane - Somewhere Only We Know
+484 | https://youtu.be/cq21c73K1L4 | Blur - Song 2
+485 | https://youtu.be/stYGQ0Y7Ses | Bif Naked - Spaceman
+486 | https://youtu.be/ddi4V-MS6GA | Fountains Of Wayne - Stacy's Mom
+487 | https://youtu.be/s6wTHdGfSes | Ben E. King - Stand By Me (Piano)
+488 | https://youtu.be/AJ-2oSgz6IQ | Muse - Starlight
+489 | https://youtu.be/MGblJggENS4 | Nicki Minaj - Starships
+490 | https://youtu.be/bhGqtMsp0-w | Rihanna ft. Mikky Ekko - Stay
+491 | https://youtu.be/QaaS6A_gpW8 | Dr. Dre / Snoop Dogg - Still D.R.E.
+492 | https://youtu.be/2lPtXYwT-A4 | Paramore - Still Into You
+493 | https://youtu.be/ZemYfjxnefk | Scorpions - Still Loving You
+494 | https://youtu.be/0uLDo2-BhaY | Dashboard Confessional - Stolen
+495 | https://youtu.be/yFOxf2Y0H1g | Demi Lovato - Stone Cold
+496 | https://youtu.be/eoTbwyR4sBs | Disturbed - Stricken
+497 | https://youtu.be/r_xMuJskzUg | Citizen Soldier - Strong For Somebody Else
+498 | https://youtu.be/kQmHUruKaUw | The Postal Service - Such Great Heights
+499 | https://youtu.be/HgGdLsA5fjY | System of a Down - Sugar
+500 | https://youtu.be/d5lOB7Ibjhg | Fall Out Boy - Sugar, We're Goin Down
+501 | https://youtu.be/lwtL-PQkmhw | half•alive - Summerland
+502 | https://youtu.be/36oYXtG0cYc | Beartooth - Sunshine!
+503 | https://youtu.be/20GjgF_3faw | Nicki Minaj - Super Bass
+504 | https://youtu.be/nlWuhCd9GQs | Eminem - Superman
+505 | https://youtu.be/8VSeyHloWTs | Five for Fighting - Superman (It's Not Easy)
+506 | https://youtu.be/srLoAl1mhFw | Neil Diamond - Sweet Caroline
+507 | https://youtu.be/uhiamj_I7II | Guns N' Roses - Sweet Child O' Mine
+508 | https://youtu.be/xkXpjDs6woE | Tim Curry - Sweet Transvestite (Rocky Horror Picture Show)
+509 | https://youtu.be/ldnfWxpcqjg | Rise Against - Swing Life Away
+510 | https://youtu.be/xVoWUemsA04 | The All-American Rejects - Swing, Swing
+511 | https://youtu.be/qGZaV9UZn4k | Masego, FKJ - Tadow
+512 | https://youtu.be/DEHcZZuwSHs | Eagles - Take it Easy
+513 | https://youtu.be/7aNW9hRKYA8 | John Denver - Take Me Home, Country Roads
+514 | https://youtu.be/kChzgo2wb1Y | Idina Menzel & Fredi Walker - Take Me or Leave Me (Rent)
+515 | https://youtu.be/pEby7etmgJs | Franz Ferdinand - Take Me Out
+516 | https://youtu.be/2bb67GtsI80 | Hozier - Take Me To Church
+517 | https://youtu.be/UxX6dDBA1bQ | Berline - Take My Breath Away (Piano)
+518 | https://youtu.be/bC4ER15Hj10 | A-ha - Take On Me
+519 | https://youtu.be/dWoGvNofjbM | Angela Landsbury - Tale As Old As Time (Beauty and the Beast)
+520 | https://youtu.be/xUWLxcb5UG8 | King Princess - Talia
+521 | https://youtu.be/Kq8zlXS2bUg | Bruno Mars - Talking to the Moon
+522 | https://youtu.be/U6eDFyoGNdA | Taylor Swift - Teardrops on my Guitar
+523 | https://youtu.be/jbK7Ps-7Gfc | Ruston Kelly - Teenage Dirtbag (Acoustic)
+524 | https://youtu.be/DVxVXBpi7vc | Chris Stapleton - Tennessee Whiskey
+525 | https://youtu.be/GruBRWLPHE8 | Bea Miller - That Bitch
+526 | https://youtu.be/Ymw3NBvSyJw | Good Charlotte - The Anthem
+527 | https://youtu.be/AUjmpbd-U2Q | Bloodhound Gang - The Bad Touch
+528 | https://youtu.be/Ptgp16JlC7A | Brandy & Monica - The Boy is Mine
+529 | https://youtu.be/ccWXZY_6_A8 | Breaking Benjamin - The Diary of Jane
+530 | https://youtu.be/iaDWGPTLU0A | CAKE - The Distance
+531 | https://youtu.be/Iw2isiMbsrA | A Day to Remember - The Downfall Of Us All
+532 | https://youtu.be/T8GatIpk5eY | Killswitch Engage - The End Of Heartache
+533 | https://youtu.be/eJj3f6NmO6Q | The Verve Pipe - The Freshmen
+534 | https://youtu.be/7ZSfEZfduzg | Steve Miller Band - The Joker
+535 | https://youtu.be/CW1DXcjPhvI | The Offspring - The Kids Aren't Alright
+536 | https://youtu.be/xLz84zV22hA | Twenty One Pilots - The Line
+537 | https://youtu.be/Kjaqv_IVMtY | Ashe, FINNEAS - The Little Mess You Made
+538 | https://youtu.be/SgtAT3QWyts | Jimmy Eat World - The Middle
+539 | https://youtu.be/WjfcJfR9Jjk | Gorillaz - The Moon Cave
+540 | https://youtu.be/s6b20-raATk | Light Years - The National
+541 | https://youtu.be/REsZUIZvcfs | Dr. Dre & Snoop Dogg, Nate Dogg & Kurupt - The Next Episode
+542 | https://youtu.be/Qut44K6sINs | Lord Huron - The Night We Met
+543 | https://youtu.be/LE0NtT0IK1c | Big Poppa - The Notorious B.I.G.
+544 | https://youtu.be/zxjFe42SA8I | Katy Perry - The One that Got Away
+545 | https://youtu.be/yCXcs2B8du0 | Paramore - The Only Exception
+546 | https://youtu.be/vji7abkYA0s | Air Supply - The Power of Love (Acoustic)
+547 | https://youtu.be/1CRDnXlieP0 | Eminem - The Real Slim Shady
+548 | https://youtu.be/gBE4kv6uqPs | Coldplay - The Scientist
+549 | https://youtu.be/Nk_d-ZYobfw | Ace of Base - The Sign
+550 | https://youtu.be/8tzbeFCurRY | Disturbed - The Sound of Silence
+551 | https://youtu.be/Q4wQMxY7A6M | Ingrid Michaelson - The Way I Am
+552 | https://youtu.be/5jNgyYSp9VQ | Montell Jordan - This Is How We Do It
+553 | https://youtu.be/nGPJ7-qLN3U | Tom Misch & Yussef Dayes - Tidal Wave
+554 | https://youtu.be/SY37clW29Os | Ke$ha - Tik Tok
+555 | https://youtu.be/S6RIe2obLmM | Ashe, FINNEAS - Till Forever Falls Apart
+556 | https://youtu.be/XmJeo1HsDo4 | Muse - Time is Running Out
+557 | https://youtu.be/NfbLW_L-bKU | Tim Curry - Time Warp (Rocky Horror Picture Show)
+558 | https://youtu.be/b6sKnKP9PX4 | Sia - Titanium (piano)
+559 | https://youtu.be/bCrghsy-ZV0 | Bad Bunny - Tití Me Preguntó
+560 | https://youtu.be/uQQntp2Jam8 | Grouplove - Tongue Tied
+561 | https://youtu.be/8_dGqb_3m-U | Jacob Banks - Too Much
+562 | https://youtu.be/7rmxIEjMNX0 | Natalie Imbruglia - Torn
+563 | https://youtu.be/-dLeErrD9Oo | Bonnie Tyler - Total Eclipse of the Heart
+564 | https://youtu.be/qHgwU94k5VI | A Static Lullaby - Toxic
+565 | https://youtu.be/NPj49Gx7YE8 | Ashnikko - Toxic
+566 | https://youtu.be/xCJtwKRysQU | Rihanna - Umbrella
+567 | https://youtu.be/KtEPGvqVRvc | Toni Braxton - Un-Break My Heart
+568 | https://youtu.be/QXi34xH-XAE | Righteous Brothers - Unchained Melody
+569 | https://youtu.be/kFD2IRBG35c | Queen & David Bowie - Under Pressure
+570 | https://youtu.be/AEce22afpbU | Red Hot Chili Peppers - Under the Bridge
+571 | https://youtu.be/DR5hRLomRws | Muse - Unintended
+572 | https://youtu.be/f2kxA2LojbQ | Alanis Morisette - Uninvited
+573 | https://youtu.be/iRYNaz8l2kM | Ani DiFranco - Untouchable Face
+574 | https://youtu.be/F3R6eJKAz4M | Mark Ronson ft. Bruno Mars - Uptown Funk
+575 | https://youtu.be/52muTfIVGxY | Kings of Leon - Use Sombody
+576 | https://youtu.be/yH2mILMKC-0 | Amy Winehouse - Valerie
+577 | https://youtu.be/zeb5b8rNbL8 | America - Ventura Highway
+578 | https://youtu.be/iqGrcYGgdAo | The Buggles - Video Killed the Radio Star
+579 | https://youtu.be/InfJQmWt-98 | Billy Joel - Vienna
+580 | https://youtu.be/IFvTDQNdlAo | Dashboard Confessional - Vindicated
+581 | https://youtu.be/fZLhpn1K9eE | Darius Rucker - Wagon Wheel
+582 | https://youtu.be/6-suc3eMcqA | Foreigner - Waiting for a Girl Like You
+583 | https://youtu.be/BGfJobjH4Dc | Avicii - Wake Me Up
+584 | https://youtu.be/xuWyxcQeB7w | Empire Of The Sun - Walking On A Dream
+585 | https://youtu.be/BTDPZQGqjY8 | Spice Girls - Wannabe
+586 | https://youtu.be/RlK9pfsYwZo | Bon Jovi - Wanted Dead of Alive
+587 | https://youtu.be/wIpJZVVvsiw | Black Sabbath - War Pigs
+588 | https://youtu.be/34wdizkI0gU | Jon Bellion - WASH
+589 | https://youtu.be/MBfYXMw-NvI | TLC - Waterfalls
+590 | https://youtu.be/rtQdr1gzRZI | Paramore - We Are Broken
+591 | https://youtu.be/KUiPFviDAvg | Queen - We Are The Champions
+592 | https://youtu.be/E_bVDXdmE1w | fun ft Janelle Monáe - We are Young
+593 | https://youtu.be/KkR_3eH_cbk | Miley Cyrus - We Can't Stop
+594 | https://youtu.be/j9HF26bUaf0 | Billy Joel - We Didn't Start the Fire
+595 | https://youtu.be/a0GBFPj7LKQ | The Family Madrigal - We Don't Talk about Bruno (Encanto)
+596 | https://youtu.be/p0FFm6WvMDQ | Girl in Red - We Fell in Love in October
+597 | https://youtu.be/fPCDqw1Kats | All Time Low - Weightless
+598 | https://youtu.be/w9Xs-1v8lKk | Phum Viphurit - Welcome Change
+599 | https://youtu.be/EkJ2NL6xpcc | My Chemical Romace - Welcome to the Black Parade
+600 | https://youtu.be/UZoHi5LnQE8 | Ylvis - What Does the Fox Say?
+601 | https://youtu.be/JnQY3EnaxXQ | Sublime - What I Got
+602 | https://youtu.be/41WYBdc02sY | Billie Eilish - What Was I Made For
+603 | https://youtu.be/8scDSrXrkGs | Bobby Caldwell - What You Won't Do for Love
+604 | https://youtu.be/pagHlXLIJw0 | Blink-182 - What's My Age Again?
+605 | https://youtu.be/AhRkg9prgaU | Simple Plan - What's New, Scooby-Doo?
+606 | https://youtu.be/o2Q2sSZF08E | Fall Out Boy - What's This? (The Nightmare Before Christmas)
+607 | https://youtu.be/oLShwvZopls | 4 Non Blondes - What's Up?
+608 | https://youtu.be/JXO8My1EC0w | Green Day - When I Come Around
+609 | https://youtu.be/p8p0z_w0Juk | Ronan Keating - When You Say Nothing At All
+610 | https://youtu.be/45fdDxzhPWQ | The Killers - When You Were Young
+611 | https://youtu.be/SIpv429GQdY | Pixies - Where Is My Mind
+612 | https://youtu.be/62CWTD5mfI8 | Cream - White Room
+613 | https://youtu.be/e-ekZzkvHb4 | Billy Idol - White Wedding
+614 | https://youtu.be/P0WG1KfHTkw | Jessica Rabbit - Why Don't you Do Right
+615 | https://youtu.be/6S1ho7B-ui0 | Chris Isaak - Wicked Game
+616 | https://youtu.be/7G59bPdai2w | The Sundays - Wild Horses
+617 | https://youtu.be/DguiRGaxrCo | Billie Eilish - Wildflower
+618 | https://youtu.be/hcXNzfsa3aA | The Beatles - With a Little Help From my Friends
+619 | https://youtu.be/6vNHFc2mgAg | Creed - With Arms Wide Open
+620 | https://youtu.be/zgcEUp476L0 | U2 - With Or Without You
+621 | https://youtu.be/HyTmNZjSI4I | Eminem - Without Me
+622 | https://youtu.be/oujVYTHU_O4 | Rag 'n' Bone Man - Wolves
+623 | https://youtu.be/R_EXyGWI9rU | Oasis - Wonderwall
+624 | https://youtu.be/MaoUGscvHOU | Iggy Azalea - Work
+625 | https://youtu.be/255bFXQUqhk | Fifth Harmony ft. Ty Dolla $ign - Work From Home
+626 | https://youtu.be/ORcgThE_RJM | Missy Elliott - Work It
+627 | https://youtu.be/uRcEEBsbfDg | Hozier - Work Song
+628 | https://youtu.be/0bTyvSTIC1E | Citizen Soldier - Worth It All
+629 | https://youtu.be/_UNDLtCte3s | Citizen Soldier - Would Anyone Care
+630 | https://youtu.be/Ke0iVfVrGic | Miley Cyrus - Wrecking Ball (Lower Key)
+631 | https://youtu.be/ZRniG514zVE | Grupo Firme - Ya Supérame
+632 | https://youtu.be/XZN3DaxqFuQ | Coldplay - Yellow
+633 | https://youtu.be/uw3zzQ-5g4o | The Beatles - Yesterday
+634 | https://youtu.be/dLzwCfw2BZc | Taylor Swift - You Belong with Me
+635 | https://youtu.be/DsFde2IK9Rk | Tom Petty - You Don't Know How It Feels
+636 | https://youtu.be/R5NrVs33-xY | Bon Jovi - You Give Love a Bad Name
+637 | https://youtu.be/BBdPnDnmPzc | Alanis Morisette - You Oughta Know
+638 | https://youtu.be/xdgziiAZwzU | A Day to Remember - You Should've Killed Me When You Had The Chance
+639 | https://youtu.be/Zqn9LN4gZi0 | Thurl Ravenscroft - You're a Mean One, Mr. Grinch
+640 | https://youtu.be/2sbjYlV_4wc | The Righteous Brothers - You’ve Lost That Lovin’ Feelin'
+641 | https://youtu.be/1rLOrijkrNs | Bad Wolves - Zombie
+642 | https://youtu.be/m8CEEkqQiiY | The Cranberries - Zombie
