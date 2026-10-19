@@ -6,6 +6,7 @@ This repository contains the text files used to power the interactive elements i
 
 *   `karaoke_songs.txt` – A curated list of track titles, artists, and search keywords for visitors to sing.
 *   `drinking_wheel.txt` – A list of custom rules, prompts, and dares for the spin-the-wheel drinking game.
+*   `supporters.txt` – A list of supporters who have contributed to the World through Patreon or other means.
 
 ## 🛠️ How to Use in Unity / VRChat
 
